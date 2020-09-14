@@ -1,5 +1,3 @@
 *.elc
-*.eln
-*/eln-*/
 /elisp-benchmarks-pkg.el
 /elisp-benchmarks-autoloads.el
