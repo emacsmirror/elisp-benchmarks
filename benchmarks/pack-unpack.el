@@ -124,5 +124,5 @@
     (bindat-unpack packet-bindat-type
                    (bindat-pack packet-bindat-type struct-bindat))))
 
-(provide 'benchmarks/pack-unpack)
+(provide 'elb-pack-unpack)
 ;;; benchmarks/pack-unpack.el ends here

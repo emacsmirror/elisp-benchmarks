@@ -139,5 +139,5 @@
 (defun elb-nbody-entry ()
   (elb-nbody 300000))
 
-(provide 'benchmarks/nbody)
+(provide 'elb-nbody)
 ;;; benchmarks/nbody.el ends here
